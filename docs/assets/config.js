@@ -16,7 +16,7 @@ const persona = {
 	perfil: "Programador, entusiasta, responsable, amable, enfocado en el desarrollo web, ...",
 	habilidades: {
 		comunicativas:['Respeto','escucha activa','trabajo en equipo','responsabilidad','análisis para toma de decisiones'],
-		gestion: ['Liderazgo','planificación','trabajo en equipo','responsabilidad','análisis para toma de decisiones'],
+		gestion: ['Liderazgo','planificación','trabajo en equipo','responsabilidad','resolución de conflictos'],
 		tecnicas: ['CSS','Javascript','Office','Suite de google','lenguaje PHP','Bases de Datos']
 	},
 	hobbies: ['Ajedrez','Matemáticas y análisis de problemas','pasar tiempo con familia y amigos','Leer','Hacer ejercicio','estudiar inglés']
